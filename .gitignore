@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.swp
+.lock
+.DS_Store
+*.covered.dart
+*.g.dart
